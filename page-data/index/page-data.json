@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"程式學習筆記"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Sync / Async / Event loop JS 是單線程的程式語言，所以同時間只能執行一個程式碼片段，並且按順序執行，這就稱為同步。執行程式碼的地方稱為 context stack (或稱為 call stack)，想像 JS…","fields":{"slug":"/understand-JavaScript-async/"},"frontmatter":{"date":"February 04, 2022","title":"理解 JavaScript 非同步機制的運作","description":null}},{"excerpt":"最近自己做了一個打字效果，用著用著沒發現什問題，直到有一次把套用了效果的中文句子換成英文，卻赫然發現文字不會換行，像火車一樣直直的衝破螢幕去了。 當下第一反應是 CSS 忘記設定文字段行了，檢查  …正常，再加上  …沒用！而且 MDN 上還寫到  deprecated…","fields":{"slug":"/trouble-with-nbsp-space/"},"frontmatter":{"date":"February 02, 2022","title":"空白? 被 &nbsp; 雷到的經驗","description":null}}]}},"pageContext":{}},
-    "staticQueryHashes": ["3000541721","3257411868"]}
+    "result": {"data":{"site":{"siteMetadata":{"title":"Coding Blog"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Sync / Async / Event loop JS 是單線程的程式語言，所以同時間只能執行一個程式碼片段，並且按順序執行，這就稱為同步。執行程式碼的地方稱為 context stack (或稱為 call stack)，想像 JS…","fields":{"slug":"/understand-JavaScript-async/"},"frontmatter":{"date":"February 04, 2022","title":"理解 JavaScript 非同步機制的運作","description":null}},{"excerpt":"最近自己做了一個打字效果，用著用著沒發現什問題，直到有一次把套用了效果的中文句子換成英文，卻赫然發現文字不會換行，像火車一樣直直的衝破螢幕去了。 當下第一反應是 CSS 忘記設定文字段行了，檢查  …正常，再加上  …沒用！而且 MDN 上還寫到  deprecated…","fields":{"slug":"/trouble-with-nbsp-space/"},"frontmatter":{"date":"February 02, 2022","title":"空白? 被 &nbsp; 雷到的經驗","description":null}}]}},"pageContext":{}},
+    "staticQueryHashes": ["3000541721","3257411868","4224293195"]}
